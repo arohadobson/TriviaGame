@@ -1,0 +1,37 @@
+body {
+	background-image: url("../images/nfl-field.jpg");
+	margin: 0px;
+	padding: 0px;
+}
+
+.background {
+	background: rgba(226, 59, 59, 0.9);
+    padding: 20px 0px 20px 0px;
+    border: solid whitesmoke 10px;
+}
+
+h1 {
+    color:white;
+    text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
+	font-family: 'Graduate', cursive;
+    font-size: 110px;
+
+}
+
+.page-text {
+	font-size: 25px;
+	margin-bottom: 10px;
+}
+
+.answerBtn {
+	margin-bottom: 10px;
+	width: 80%;
+	font-size: 20px;
+	background: none;
+	border: none;
+}
+
+.character {
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
