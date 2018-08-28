@@ -26,57 +26,57 @@ var question03 = {
 	question: "What team drafted Brett Favre?",
 	answers: ["Raiders", "Vikings", "Packers", "Falcons"],
 	values: ["incorrect", "incorrect", "incorrect", "correct"],
-	correct: "Snow White",
+	correct: "Falcons",
 	image: "assets/images/FavreFalcons.jpg"
 };
 var question04 = {
-	question: "Who went from zero to hero?",
-	answers: ["Aladdin", "John Smith", "Hercules", "Simba"],
+	question: "Who is the only Super Bowl MVP to have played on the losing team?",
+	answers: ["Len Dawson", "Randy White", "Chuck Howley", "Larry Csonka"],
 	values: ["incorrect", "incorrect", "correct", "incorrect"],
-	correct: "Hercules",
-	image: "./assets/images/hercules.png"
+	correct: "Chuck Howley",
+	image: "assets/images/HowleyChuckPose.jpg"
 };
 var question05 = {
-	question: "Who is not a member of Woody's Roundup",
-	answers: ["Buzz Lightyear", "Jessie", "Bullseye", "Stinky Pete"],
+	question: "Who was the first openly gay player drafted by an NFL team?",
+	answers: ["Michael Sam", "Ray McDonald", "Dave Kopay", "Jerry Smith"],
 	values: ["correct", "incorrect", "incorrect", "incorrect"],
-	correct: "Buzz Lightyear",
-	image: "./assets/images/buzzlightyear.png"
+	correct: "Michael Sam",
+	image: "assets/images/michaelSam.jpg"
 };
 var question06 = {
-	question: "What is the name of the cup in Beauty and the Beast?",
-	answers: ["Flake", "Splinter", "Notch", "Chip"],
+	question: "Who was the first player drafted in the first NFL draft in 1936?",
+	answers: ["Sammy Baugh", "Don Hutson", "Bart Starr", "Jay Berwanger"],
 	values: ["incorrect", "incorrect", "incorrect", "correct"],
-	correct: "Chip",
-	image: "./assets/images/chip.png"
+	correct: "Jay Berwanger",
+	image: "assets/images/jayBerwanger.jpg"
 };
 var question07 = {
-	question: "What film takes place in Agrabah?",
-	answers: ["Frozen", "Aladdin", "Tangled", "The Little Mermaid"],
+	question: "What team won 3 Super Bowls in the 1990s?",
+	answers: ["49ers", "Cowboys", "Patriots", "Broncos"],
 	values: ["incorrect", "correct", "incorrect", "incorrect"],
-	correct: "Aladdin",
-	image: "./assets/images/aladdin.png"
+	correct: "Cowboys",
+	image: "assets/images/DAL.png"
 };
 var question08 = {
-	question: "What is Dumbo's real name?",
-	answers: ["Tembo", "Jambo", "Jumbo Jr.", "Wumbo"],
+	question: "Which NFL team features a helmet logo on only one side of their helmet?",
+	answers: ["Patriots", "Cowboys", "Steelers", "Dolphins"],
 	values: ["incorrect", "incorrect", "correct", "incorrect"],
-	correct: "Jumbo Jr.",
-	image: "./assets/images/dumbo.gif"
+	correct: "Steelers",
+	image: "assets/images/Steelers.jpg"
 };
 var question09 = {
-	question: "What organization did Russell from Up belong to?",
-	answers: ["Boy Scout", "Kid Camper", "Wilderness Explorer", "Adventure Seeker"],
+	question: "What is the oldest NFL franchise in continuous operation with the same name in the same location?",
+	answers: ["Cleveland Browns", "Arizona Cardinals", "Green Bay Packers", "Chicago Bears"],
 	values: ["incorrect", "incorrect", "correct", "incorrect"],
-	correct: "Wilderness Explorer",
-	image: "./assets/images/russell.png"
+	correct: "Green Bay Packers",
+	image: "assets/images/GBP.png"
 };
 var question10 = {
-	question: "What type of animal is Flower in Bambi?",
-	answers: ["Skunk", "Deer", "Rabbit", "Owl"],
+	question: "In 1993, what NFL team made off-season trades for Joe Montana and Marcus Allen?",
+	answers: ["Kansas City Chiefs", "Denver Broncos", "Oakland Raiders", "San Francisco 49ers"],
 	values: ["correct", "incorrect", "incorrect", "incorrect"],
-	correct: "Skunk",
-	image: "./assets/images/flower.png"
+	correct: "Kansas City Chiefs",
+	image: "assets/images/KCC.png"
 };
 
 
